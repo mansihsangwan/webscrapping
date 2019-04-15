@@ -1,0 +1,16 @@
+http://brochure.getpython.info/
+http://wiki.python.org/moin/Languages
+http://python.org/dev/peps/
+http://planetpython.org/
+http://pyfound.blogspot.com/
+http://pycon.blogspot.com/
+http://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator
+http://blog.python.org
+http://feedproxy.google.com/~r/PythonSoftwareFoundationNews/~3/V1XhKnxuyi4/update-on-python-in-education-proposal.html
+http://feedproxy.google.com/~r/PythonSoftwareFoundationNews/~3/LabBUK7ygHY/puppy-presents-its-1st-annual-benefit_27.html
+http://feedproxy.google.com/~r/PythonInsider/~3/uz22TzpffFw/go-get-it-here-httpswww.html
+http://feedproxy.google.com/~r/PythonInsider/~3/dW-3ciiUt2k/go-get-it-here-httpswww.html
+http://www.djangoproject.com/
+http://www.pylonsproject.org/
+http://bottlepy.org
+http://tornadoweb.org

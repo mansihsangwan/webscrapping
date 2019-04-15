@@ -1,0 +1,15 @@
+Get the Python Brochure Vol.1 as download! — 
+Languages - Python Wiki
+PEP 0 -- Index of Python Enhancement Proposals (PEPs) | Python.org
+Planet Python
+Python Software Foundation News
+The PyCon Blog
+3. An Informal Introduction to Python — Python 3.7.3 documentation
+Python Insider
+Python Software Foundation News: Update on the Python in Education Proposal Phase
+Python Software Foundation News: PuPPy Presents its 1st Annual Benefit featuring Guido van Rossum
+Python Insider: Python 3.8.0a3 is now available for testing
+Python Insider: Python 3.8.0a3 is now available for testing
+The Web framework for perfectionists with deadlines | Django
+Welcome to the Pylons Project
+Bottle: Python Web Framework — Bottle 0.13-dev documentation

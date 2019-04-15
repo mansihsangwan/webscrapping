@@ -1,0 +1,1053 @@
+
+Skip to content. |
+
+  Skip to navigation
+
+Personal tools
+Navigation
+The first run of the printed edition was successfully released in 2014 at the PyCon in Montreal. After that we distributed this excellent showcase of Python to major computing conferences around the world. We were proud to offer to ship the second print run until end of 2016. We have send all our copies to your local events and shows around Python over the whole world. Since then it is still a growing technology that powers the web and science & engineering in both education and production.
+You can download the Python brochure as the latest updated screen resolution PDF suitable for electronic distribution and is well suited for low resolution printing on A4 as a A5 folded brochure booklet. The original printed issue was 32 pages, A4, full-color.
+Quick Read of License and redistribution rules of this PDF: 
+ Get the PDF file
+ 
+
+ 
+The Python Software Foundation (PSF) has collected success stories and case studies over the last two years and we've created a beautiful, professional quality printed brochure to promote the usage of Python to audiences which we are currently not reaching well.
+We cover business, science, industry, education, media, government, public sector and charity stories.
+Our target groups are CIOs and chief developers, scientists and programmers, university lecturers, teachers and students, customers, clients, managers and employees.
+Until a new edition is planned, you can still get the PDF file as download.
+
+ 
+ RSS news feed
+ Twitter @pythonbrochure
+or subscribe to our email newsletter
+Attempt to have languages and links listed in the native tongue of the user. 
+2009-09-01 This page's links go to the various languages' pages, most of which have been copied from the other set of language pages, with a few updates.  
+Ideally, all the pages should be like the Polish or Turkish pages - all native language, only the necessary English. 
+There are some groundrules, some laid down by the site admins, some my suggestions: 
+Pages must be named in ASCII and English (PolishLanguage) 
+Pages must have an explanation in English at the top (Links to Python information in <language X>) 
+Where these pages really need help: 
+
+
+AfrikaansLanguage Afrikaans 
+AlbanianLanguage Shqip 
+AmharicLanguage አማርኛ 
+ArabicLanguage العربية 
+ArmenianLanguage Հայերեն 
+AssameseLanguage অসমীয়া 
+AzerbaijaniLanguage Azərbaycan dili 
+BelorussianLanguage Беларуская мова 
+BengaliLanguage বাংলা 
+BodoLanguage बड़ो 
+BosnianLanguage bosanski 
+BulgarianLanguage български език 
+BurmeseLanguage မြန်မာဘာသာ 
+CatalanLanguage català 
+ChineseLanguage 漢語 
+CroatianLanguage hrvatski 
+CzechLanguage čeština 
+DanishLanguage dansk 
+DogriLanguage डोगरी  Devanagari script 
+DutchLanguage Nederlands 
+EsperantoLanguage Esperanto 
+EstonianLanguage eesti keel 
+FinnishLanguage suomi 
+FrenchLanguage français 
+GeorgianLanguage ქართული ენა 
+GermanLanguage Deutsch 
+GreekLanguage Νέα Ελληνικά 
+GujaratiLanguage ગુજરાતી 
+HausaLanguage Hausa 
+HebrewLanguage עִבְרִית 
+HindiLanguage हिन्दी 
+HungarianLanguage magyar nyelv 
+IndonesianLanguage Bahasa Indonesia 
+IcelandicLanguage íslenska 
+IgboLanguage Asụsụ Igbo 
+ItalianLanguage italiano 
+JapaneseLanguage 日本語 
+KannadaLanguage ಕನ್ನಡ 
+KashmiriLanguage कॉशुर (Koshur) 
+KazakhLanguage Қазақ тілі 
+KhmerLanguage ភាសាខ្មែរ 
+KonkaniLanguage कोंकणी Devangari script 
+KoreanLanguage 한국어/조선말 
+LaoLanguage ພາສາລາວ 
+LatvianLanguage latviešu valoda 
+LithuanianLanguage lietuvių kalba 
+MalayLanguage Bahasa Melayu 
+MalayalamLanguage മലയാളം 
+MarathiLanguage मराठी 
+MongolianLanguage Монгол хэл 
+NepaliLanguage नेपाली 
+NorwegianLanguage norsk 
+OriyaLanguage ଓଡ଼ିଆ 
+PersianLanguage فارسی 
+PolishLanguage język polski 
+PortugueseLanguage português 
+PunjabiLanguage ਪੰਜਾਬੀ 
+WesternPunjabiLanguage پنجابی 
+RomanianLanguage limba română 
+RussianLanguage русский язык 
+SanskritLanguage संस्कृत 
+SlovakLanguage slovenský jazyk 
+SloveneLanguage slovenščina 
+SerbianLanguage Српски 
+SinhalaLanguage සිංහල 
+SpanishLanguage español 
+SwahiliLanguage Kiswahili 
+SwedishLanguage svenska 
+TagalogLanguage Wikang Tagalog 
+TamilLanguage தமிழ 
+TeluguLanguage తెలుగు 
+ThaiLanguage ภาษาไทย 
+TigrinyaLanguage ትግርኛ 
+TurkishLanguage Türkçe 
+UkranianLanguage украї́нська мо́ва 
+UrduLanguage اُردوُ 
+UzbekLanguage O‘zbek tili 
+VietnameseLanguage tiếng Việt 
+XhosaLanguage isiXhosa 
+ZuluLanguage isiZulu 
+CategoryLanguage 
+CategoryUnicode 
+Languages  (last edited 2014-03-23 04:24:49 by DaleAthanasias)
+Unable to edit the page? See the FrontPage for instructions.
+Notice: While Javascript is not essential for this website, your interaction with the content will be limited. Please turn Javascript on for the full experience. 
+Contents
+This PEP contains the index of all Python Enhancement Proposals,
+known as PEPs.  PEP numbers are assigned by the PEP editors, and
+once assigned are never changed [1].  The version control history [2] of
+the PEP texts represent their historical record.
+I - Informational PEP
+P - Process PEP
+S - Standards Track PEP
+A - Accepted (Standards Track only) or Active proposal
+D - Deferred proposal
+F - Final proposal
+P - Provisional proposal
+R - Rejected proposal
+S - Superseded proposal
+W - Withdrawn proposal
+The Python Software Foundation is the organization behind Python. Become a member of the PSF and help advance the software and our mission. 
+
+Copyright ©2001-2019.
+                             Python Software Foundation
+                             Legal Statements
+                             Privacy Policy
+                             Powered by Heroku
+
+Last update: April 15, 2019 01:48 PM UTC
+
+
+
+
+
+
+
+
+I've made notes again at the 2019-04-11 Amsterdam Python meetup in the byte office. Here are the summaries.
+Computer systems are taking over the world. They're influencing everything. A
+lot of good has come out of this. But there's also a downside.
+We're talking (at meetups like this, for instance) mostly about tech, not
+about the people that build it or the people affected by it. Nick Groenen calls that an ethics problem.
+As an example, Uber's "greyball" that was originally written for a good
+purpose but that was later used to mislead governments. Same with
+Volkswagen's diesel emissions scandal: detecting when there's an official test
+and adjusting the motor parameters to seem more environmentally friendly.
+How ethical is it to work on something like that?
+The above examples are of big companies. But what about working for smaller
+companies? You have the same ethical challenges there. What are you doing with
+your logfiles? How much information do you mine about your customers? Do you
+give customers' data to your boss when he asks about it even though it isn't
+allowed by your privacy policy?
+And how do you treat new programmers? Is there budget for training? How do you
+treat interns? That's also an ethical question.
+A good first step would be to actually acknowledge the problem in our IT
+industry.
+Ethics... we didn't learn for that. There are some pointers to get you started:
+Noam Tenne works at Van Moof, a bicycle company.
+He made his own testing framework, Nimoy, named after the actor who
+played Spock.
+TDD ought to be a given now. It isn't always, but it ought to be. Test Driven
+Development.
+What about BDD: Behaviour Driven Development? A test for a feature is
+written like this:
+You can do it with the python behave
+library. It works with one file per scenario with decorators inside
+them. Which is a bit cumbersome. And not business-people-friendly.
+Nimoy goes back to the old way. One test method per feature. The steps
+("given", "when") are indicated by using the with statement:
+It functions like a DSL (domain specific language) this way. It isn't real
+regular python code, but it uses python syntax in a specific way. (Note by
+Reinout: I suspected he was using metaclasses behind the scenes to adjust the
+way python treats keywords and variables within the Specification classes, but
+he later mentioned he used the AST (python's Abstract Syntax Tree
+module). ast.NoteTransformer and so.).
+And DDT? Data Driven Testing? There's support in nimoy for parametrizing
+existing data (for instance from a file or database) and to use that in the
+tests.
+Nimoy has some nice syntactic sugar for using mock classes. Easy to specify
+expected output, for instance.
+He's got a series of blog posts
+on how/why he created Nimoy.
+He showed some internal code examples afterwards. Including Nimoy tests for
+nimoy itself. Looked nice.
+
+April 15, 2019 07:04 AM UTC
+
+
+
+In this example we are going to create a function which will count the number of occurrences of each character and return it as a list of tuples in order of appearance. For example, 
+The above is a 7 kyu question on CodeWars, this is the only question I can solve today after the first two fail attempts.
+I am supposed to start the Blender project today but because I want to write a post for your people I have spent nearly an hour and a half working on those three python questions on CodeWars, I hope you people will really appreciate my effort and will share this post to help this website to grown.
+The solution above is short and solid, hope you like it.
+
+April 15, 2019 05:08 AM UTC
+
+
+
+This week we welcome Pierre Denis as our PyDev of the Week! Pierre is the creator of Lea, a probabilistic programming package in Python. He can be found on LinkedIn where you can see his CV and learn more about some of the things he is up to. Let’s take a few moments to get to know Pierre better! 
+Can you tell us a little about yourself (hobbies, education, etc): 
+I’ve a Master in Computer Science from UCL Louvain-la-Neuve, Belgium, where I reside. I’m working since 20 years as software engineer in [Spacebel](http://www.spacebel.be), a company developing systems for Space. Basically, I like everything creative and elegant. Beside arts, music, literature, I ‘m looking for this in physics, algorithmic, GUI and mathematics. I love programming, especially in Python. So far, I have initiated three open-source Python projects: UFOPAX (textual virtual universe), Unum (quantities with unit consistency) and Lea (probabilistic programming). For these developments, I tend to be perfectionist and consequently slow: I’m the kind of guy that re-write the same program ten times, just for the sake of inner beauty!
+Beside programming, I’m doing research in number theory (twin primes conjecture). Also, I’m writing short stories in French, my mother tongue, with some reference to the ‘Pataphysics of Alfred Jarry and a lot of nonsense. Incidentally and fortunately, programs can be good for producing nonsense, as I showed in my bullshit generator!
+Why did you start using Python? 
+One day, a colleague showed me very interesting things he made with that language, completely unknown for me. It was Python 1.5, in 1999! At that time, I was much in favor of statically-typed languages (C++, Java, Ada, …). Intrigued, I read “Whetting your appetite” of G. van Rossum, then I swallowed the wonderful “Learning Python” book of M. Lutz and D. Asher. I was quickly conquered by the clarity, the conciseness, the beauty of the language. So, I started Python basically because it was so appealing: having the simplicity of an interpreted language with built-in containers, exceptions, OO, operator overloading, and many, many more. I became soon a zealous advocate of Python in my company.
+What other programming languages do you know and which is your favorite? 
+Well, I’ve practiced Pascal, Ada, C, C++, Smalltalk, Java, Prolog, Scala and a few others. Python is my favorite one, by far. Now, if I had to award a silver medal, this would be Scala. Actually, my programming experience with Scala changed a bit the way I program in Python: I smoothly shifted to a more functional style, in particular, preferring immutable objects to mutable ones. Beside this choice, I’ve to mention that C, Smalltalk and Prolog have been very influential for me.
+What projects are you working on now?
+For my company, I’ve worked recently on the qualification of MicroPython, the awesome project of Damien George, for Flight onboard software (for short, Python running on a spacecraft!). Independently, I’m now contributing to a revamp of our workflow execution engine. This uses Python, RabbitMQ, Open API, MongoDB as well as Angular for the GUI. As for the previous version, this will be used in satellite operations centers (e.g. switch on antenna and perform uplink/downlink at satellite passes).
+On the side of personal Python projects, I’m maintaining Lea, in particular for extending its ML abilities. Also, I’m working on SiriusBee, a videogame prototype using PyQt, where you drive a spacecraft through alien caves. As a longer background task, I’m still in search of a proof to twin prime conjecture…
+Which Python libraries are your favorite (core or 3rd party)?
+Oh, so many of them are just great! In the standard Python modules, I like ast, functools, datetime, json, bisect, just to name a few that I used recently. In my experience, bisect is not very much known, probably due to its cryptic and unappealing name. I advised it several times to people needing to do efficient “range” lookups (they usually started first implementing by themselves).
+For 3rd party ones, I do like PyQt, which I’ve used a lot. BTW, I’m coauthor of an introductory book on PyQt in French. SymPy also is really impressive, even if I’m acquainted only with the symbolic computation part. This allowed Lea producing probability formulae, like p**5 * (1 – q)**3, instead of numbers. To my surprise, this was done almost for free, without changing a single line of Lea’s core algorithm. The magic of Python and duck-typing!
+What is the Lea package? 
+In essence, Lea allows you playing with probabilities in a simple way. You can define discrete random variables (RV) as dictionaries of objects with given probabilities. Then, Lea allows you combining these random variables, mostly as you would do for usual (deterministic) objects: typically, using particular arithmetic and comparison operators. You then obtain a new RV that you may query to get the calculated probabilities. An important concept is that the dependencies you define between RV’s are kept internally. Think of that as some kind of “lazy evaluation”. This allows conditioning and Bayesian reasoning (What is the probability of a hypothesis H given observation X?). Lea fits very well in the field of Probabilistic Programming Language (PPL). Several packages, in Python and others, provide similar functionalities but, from the feedbacks I received, I honestly think that Lea is among the most intuitive and easy to use.
+On the design side, the package is made of few building blocks that can combine together to make complex probabilistic models. These are processed by an original inference algorithm in which Python generators play a key role. These building blocks are subclasses of “Lea”, the root abstract class, and are named “Alea”, “Blea”, “Flea”, “Clea”, etc.. I know that this may sound odd but having such short names helped me to reason; these are like members of a fairy family, whom I can summon so they converse together and… play Statues (the game that inspired the algorithm’s name). Needless to say, Lea is the programming thing that I’m the most proud of!
+What have you learned creating Python packages? 
+One lesson I learned is that any new function that you program requires much efforts downstream: documentation, formal tests and tutorial updates. I spent many more time for these activities than for the programming itself. In Lea code, you may find one-liner methods having 20 lines long docstrings!
+Also, I must confess that, for my personal projects, I had an inclination to work alone. I’ve learned however that there are several people, highly skilled, ready to help by evolution propositions or direct contributions. What is great with open-source is that there seems to be always someone, somewhere, who can fulfill your lacks on any topic. I think especially to Chris MacLeod, who took over the maintenance of Unum, as well as Paul Moore and Nicky van Foreest, who made great contributions on Lea for optimization, test suite and packaging. Also, I’ve many examples of open discussions I had with knowledgeable persons, which lead to new important ideas. I strongly believe in the virtues of cross-fertilization and serendipity.
+Is there anything else you’d like to say? 
+Last week, my son has written a Python script implementing a genetic algorithm. Basically, individuals learn by evolution/selection how to follow a given road to reach a target zone. After some tuning, his program works very fine. He programmed everything without any third-party library, except PyGame for the display. I’m very impressed and proud of him.
+
+
+April 15, 2019 05:05 AM UTC
+
+
+What is music21?
+Music21 is a set of tools for helping scholars and other active listeners answer questions about music quickly and simply. If you’ve ever asked yourself a question like, “I wonder how often Bach does that” or “I wish I knew which band was the first to use these chords in this order,” or “I’ll bet we’d know more about Renaissance counterpoint (or Indian ragas or post-tonal pitch
+
+April 14, 2019 02:42 PM UTC
+
+
+
+Visual Studio the text editor is known as Visual Studio Code is Microsoft’s free text editor that runs on Windows, Linux, and macOS. It’s a recent entrant to the market; Microsoft released the product as a public preview at the end of 2015, posting the open source code to Github, before making it available as a general release in April 2016.
+Despite its newbie status, Visual Studio Code has rapidly gained popularity among developers. Some may argue that it is not a real IDE, but merely an advanced text editor. But in my opinion, after installing a number of extensions, it becomes almost a full-fledged IDE with very rich functionality.
+Additionally, despite being an Electron-based application, it is quite lightweight and responsive (in contrast to for example Atom, which is very slow and resource intensive).
+This tutorial will go through Installation and setup of the VS code for Python and Django projects on your machine.
+Visual Studio Code is a free text editor so to download it you just have to visit their official site and download the file depending on your operating system. So visit Vscode’s-website and download the latest stable build for your OS and once the download is finished install the editor and launch the app.
+
+The best thing about VScode is that it comes with a built-in terminal which comes handy for Django projects press Ctrl+Shift+` to invoke the terminal.
+
+Note that in windows powershell may seem weird for new users it is recommended to use Python debug console or CMD.
+To enjoy Pythonic features such as Linting, Debugging (multi-threaded, remote), Intellisense, code formatting, refactoring, unit tests, snippets, and more you need to install Python extension for Vscode.
+To install an extension press Ctrl+Shift+x or click the extension icon.
+
+Now search for Python and install the one published by Microsoft.
+
+Search for Djaneiro this extension provides a collection of snippets for Django templates, models, views, fields & forms ported from Djaneiro for SublimeText.
+Press CTRL+SHIFT+P(CMD+SHIFT+P for MacOS) and type Python: Select Interpreter and select the environment for your project. You can see the active environment at the bottom left of the editor.
+
+The default Vscode theme is great in itself however there are plenty for fabulous free theme available for download. My favorite one is Ayu Mirage.
+To install or change a theme go to, file>Preference> color theme
+
+And select Ayu mirage or any other theme that you prefer.
+
+Notice below color theme there is an option for file icon theme click on that and select Ayu this will give different file icons for your project which will help you in distinguishing between them.
+
+After that restart VS code to activate the extensions. Now open any of your Django project you should get this beautiful view.
+
+Font’s look a bit small you can increase them in workspace setting I usually keep it to 19. To change the font size got to file>Prefernce> Settings then change the font size in workspace settings.
+
+Go to file> preferece> settings then open settings.json from there.
+
+In USER SETTINGS inside the curly braces { } add the following Settings.
+To use the above features, the editor will prompt you to install pylint and autopep8, or you can install them directly in the virtual environment.
+
+The post The Ultimate Visual Studio Code Setup For Django Developers appeared first on Django Central.
+
+April 14, 2019 12:54 PM UTC
+
+
+What if you could write standard numpy and pandas code but have it run on a distributed computing grid for incredible parallel processing right from Python? How about just splitting it across multiprocessing to escape the limitations of the GIL on your local machine? That's what Dask was built to do.
+
+April 14, 2019 08:00 AM UTC
+
+
+
+These are the ten most rated questions at Stack Overflow last week.Between brackets: [question score / answers count]Build date: 2019-04-13 20:50:39 GMT
+
+April 13, 2019 08:50 PM UTC
+
+
+Introducing two new video series in industrial controls/IoT development and Python programming.
+
+April 13, 2019 04:47 PM UTC
+
+
+
+Most of the time a python programmer will need to reverse the order of the entire python list’s elements so a program can loop through those elements in the list starting from the end instead of from the beginning. Below is an example which we will use the python list’s reverse method to reverse the order of the list before using it.
+Wolves have been reintroduced to Great Britain. You are a sheep farmer and are now plagued by wolves which pretend to be sheep.  Fortunately, you are good at spotting them. 
+Warn the sheep in front of the wolf that it is about to be eaten. Remember that you are standing at the front of the queue which is at the end of the array:
+If the wolf is the closest animal to you, return "Pls go away and stop eating my sheep". Otherwise, return "Oi! Sheep number N! You are about to be eaten by a wolf!" where N is the sheep’s position in the queue.
+Note: there will always be exactly one wolf in the array!
+Before we solve the above problem, we need to reverse the order of the list using the below method.
+Here is the entire solution.
+A simple solution indeed, in the meantime I feel really shocked that the animals (both the wolf and the sheep) in Great Britain knows English so well! Like, share or follow me on Twitter.
+
+April 13, 2019 12:21 PM UTC
+
+
+
+
+April 13, 2019 08:00 AM UTC
+
+
+
+Often when starting a new Python project we need to spend some time thinking about how to manage the settings, decide on which module the configuration manager will be written, decide which name to give to this module, create a class or function to store the configuration keys, create the conditions for multiple environments and still need to worry about where these keys will be stored and in which file format?
+No more! now you have Dynaconf!
+Spend your precious time developing your application, run pip install dynaconf and let Dynaconf take care of your settings.
+And that's it!
+That is the only line of code you need, no complicated boilerplate, no hadouken-ifs, no need to maintain config classes.
+You must be wondering - "What magic is this? Where does the setting values come from?"
+Well, there is no magic, and the values can come from wherever you want, by default and following the recommendations of the 12 factor apps Dynaconf has preference for environment variables.
+And the environment variables for Dynaconf are typed using the toml format sotrue has been evaluated to boolean True and this makes it possible to export lists, dictionaries, floats, booleans, and so on.
+Read more about envvars
+Well, that's cool, but your project will not have settings coming from just the environment variables, I'm sure you want to have a settings file where you can set  default values.
+Dynaconf can read multiple file formats, out of the box it supports .py, .toml, .ini and .json. If PyYAML is installed then it will also support .yaml and you don't have to take care of finding and opening the files. The preferred format is .toml because it is currently the best configuration format, widely addopted, and you can use whatever file format you want.
+And as you can see now using settings. file we can have separate [environments] by default dynaconf will always work on [development] which means only [default] and [development] variables will be loaded. At any time you can do export ENV_FOR_DYNACONF=production and then it starts using the values from [production] environment.
+If you don't want to have that separation by environment, you can simply put everything under [default] section.
+Read more about environments and settings file
+A good practice is to not store your secrets like passwords and tokens directly on settings files, because you can make a mistake and commit that to a public git repository, so there are some alternatives to store secrets
+Not recommended
+There are some people who disagrees and it is really a point of security failure. However, if you are sure that your machine is protected, you can leave the secrets in the variables, at your own risk, Dynaconf can read it normally.
+This is a simple level of security for keeping secrets, and it is specially useful to keep development secrets. That token you use to access the development API etc.
+It is very simple, together with your normal settings.toml you put a new file called .secrets.toml and store your sensitive data there. Dynaconf will read it after the read of the settings.toml
+Wait.. how does it solve my security problem?
+Well it does not (yet) but it make your life easier in 2 ways.
+You can also tell Dynaconf to load that file from somewhere else export SECRETS_FOR_DYNACONF=/path/to/secrets/location/.secrets.yaml (very useful for CI like Jenkins)
+Recommended!
+Now we are really talking about true security
+Using Vault is the better way to protect your secrets dynaconf has built-in support:
+And then if have for example the TOKEN stores on your vault server you can simply do:
+Vault has lots of features like leases and sealed vaults.
+Read More
+Dynaconf provides extensions for those 2 frameworks, with 2 lines of code you enable it and then your framework will start reading settings from Dynaconf.
+Now you if you do export DJANGO_FOO=BAR you can access inside your app via django.conf.settings.FOO
+read more
+Now you if you do export FLASK_FOO=BAR you can access inside your app via app.config['FOO']
+read more
+You can extend Dynaconf adding new loaders!
+Dynaconf already provides loaders for:
+But if this is not a fit for your project you can still create your own loader
+Dynaconf is the only thing you need to manage your settings!
+Settings are simple but Dynaconf provides even more features like Feature Flags, Settings Context Managers, Plugin Settings etc..
+Documentation: http://dynaconf.readthedocs.io/
+Dynaconf is waiting for your feedback and Contribution
+:)
+
+April 12, 2019 02:38 PM UTC
+
+
+We are all very excited that, once again, PyCon will sell out.  Time is running out so act fast if you are planning to attend, there are 60 tickets left as of April 12th at 11:00am central time. 
+
+April 12, 2019 12:48 PM UTC
+
+
+The TinEye API is ideally suited for image and profile verification, UGC moderation, copyright compliance and fraud detection.
+Read more about the TinEye API here.
+You need to use authentication for this API, read here.
+To use the TinEye API you must purchase a search bundle.
+The documentation for Python can be found here.
+Let's start with the installation.
+You need to download the zip file from
+
+April 12, 2019 08:03 AM UTC
+
+
+
+The over 45 speakers at AnacondaCON 2019 delved into how machine learning, artificial intelligence, enterprise, and open source communities are accomplishing great things with data — from optimizing urban farming to identifying the elements in…
+The post The Human Element in AI appeared first on Anaconda.
+
+April 11, 2019 04:24 PM UTC
+
+
+
+Learn the four main approaches to string formatting in Python, as well as their strengths and weaknesses. You’ll also get a simple rule of thumb for how to pick the best general purpose string formatting approach in your own programs.
+[ Improve Your Python With 🐍 Python Tricks 💌 – Get a short & sweet Python Trick delivered to your inbox every couple of days. >> Click here to learn more and see examples ]
+
+April 11, 2019 02:00 PM UTC
+
+
+
+Scientists have used a new algorithm to take a photo of a black hole. One of the most exciting parts about it to me is that they used a lot of Python libraries to do the magic. 
+Here’s a list mentioned in their paper:
+They also used their own custom Python code which is available on Github
+If you’re interested in a more laymen’s explanation of the ideas behind taking the photo, there’s a nice TED talk on it from one of the researchers:
+
+
+
+April 11, 2019 01:41 PM UTC
+
+
+
+The story I’m about to tell celebrates an epic adventure in making stuff work.
+
+Just over a week ago Warren Hardy turned up
+on our discussion channel to report
+problems when trying to install Mu. He was working on an ARM based
+single board computer (SBC).
+The most famous SBC is, of course, the Raspberry Pi,
+but there are many alternatives, each with their own different strengths and
+areas of focus. Warren explained that his aim was, “to build a $99 less
+complete SBC/computer, that can run YouTube, basic office software and be used
+to tinker”.
+The problem is Mu relies on other projects and some of this software doesn’t
+work on all platforms. For example, Mu uses the
+PyQt5 library to
+draw and control its user interface. However, the folks who make PyQt only
+release versions built for Windows, Mac and a limited number of Linux versions
+running on an even more limited selection of hardware. It soon became clear
+that Warren’s SBC wasn’t a supported platform.
+Here’s where Warren demonstrated epic technical problem-solving skills.
+Over the course of a few days he patiently, diligently and indomitably worked
+through a series of over obscure problems and trials to achieve success which
+he celebrated with a tweet
+and photographic proof.
+
+As you’ll see below, this took a huge amount of work.
+So why the mention of crossing rivers in the blog title?
+The Chinese leader, Deng XiaoPing
+described his economic reforms as, “摸着石头，过河” (crossing the river by
+feeling the stones). This is a wonderful characterisation of what it feels like
+when trying to achieve a difficult task for the first time without any help or
+guidance. The important thing is to be determined, pragmatic and careful to
+ensure you take the right steps to reach your goal. These attributes, along
+with an obvious technical talent, allowed Warren to cross the river to a
+working version of Mu.
+I mentioned to Warren that other people trying to make PyQt5 work on different
+platforms would probably appreciated a description of the steps he took to
+achieve a successful build. I offered to blog these steps if he shared them,
+and being a generous soul, Warren emailed me the steps yesterday.
+So, without further ado… here are Warren’s notes for future reference. Thank
+you for all the hard work Warren..!
+These notes should work on any Debian/Ubuntu platform. If you have any
+questions please email Warren (who
+gave me permission to add his email details to this blog post).
+Note: always sudo make install when make install is required.
+Setup basic tools and libraries
+DO NOT INSTALL python3-pyqt5 python3-pyqt5.qsci python3-pyqt5.qtserialport
+python3-pyqt5.qtsvg.
+Required Python Packages
+Setup SIP (needed by PyQt5)
+Setup PyQt5
+Setup QScintilla
+Setup PyQtChart
+Setup PyGame
+Setup Cryptography Library
+Install and Configure Mu
+Edit the setup.py file so the install_requires section looks like this:
+Now type sudo python3 setup.py install to install Mu!
+Finally, there needs to be some post-install configuration:
+Change the mu.editor.desktop file found in the /usr/share/applications
+directory to:
+Download the icon.
+That’s it..!
+
+April 11, 2019 01:15 PM UTC
+
+
+
+Pictured: The final rush is on! Staff quickly check materials for our PyCon booth. 
+PyCon 2019 is almost here, and we’re excited to continue to sponsor this premier Python event, which takes place in Cleveland, OH, from May 1 - 9. PyCon attracts attendees from around the world, and for the first time, the conference will include a track of Spanish talks.  
+Connecting with the Python community is one of our favorite parts of participating in PyCon. We love to catch up with people we’ve met before and see new faces, too! We’ll be in the Exhibit Hall at booth 645 on May 2 - 4, where we’ll have swag, games, and giveaways. 
+
+Some of you may remember our Ultimate Tic Tac Toe game from previous years. Only a few committed players were able to beat the AI opponent last year. This year, any (human) champions will earn a Caktus hoodie and be entered into a drawing to win a Google AIY Vision Kit and a Google AIY Voice Kit.
+PyCon consistently attracts top-notch speakers who present on a variety of informative topics. Our team is especially looking forward to the following:
+Check out the full schedule of talks. Some of these will likely appear in our follow-up PyCon Must-See Talks series, so if you can’t make it to the event, check back in June for our top picks. 
+Open Spaces: Beyond the scheduled talks, our Technology Support Specialist Scott Morningstar is looking forward to the Open Spaces sessions, which are self-organizing, meetup-like events. Scott plans to run a game of WINTERHORN during one of the open spaces times. The live-action game allows players to reflect on the government and opportunities for activism. “I’m not sure if playing WINTERHORN will make you a better developer, but it may make you a better citizen, or at least better informed about what is happening in the world,” Scott said. 
+Arts Festival: This year, PyCon includes a mini arts festival called The Art of Python, which will “showcase novel art that helps us share our emotionally charged experiences of programming (particularly in Python).” With his background in STEAM education (STEM + the Arts), account executive Tim Scales is particularly excited about the arts festival, which will provide a creative complement to the technical presentations and lectures.
+
+Are you a sharp Django web developer searching for your next opportunity? Good news — we’re hiring! View the spec and apply from our Careers page. We’ll also be at table 34 during the PyCon job fair on May 5, which is open to the public, so come meet the hiring manager and learn more about what it’s like to work at Caktus.
+Come see us at our booth, look for members of the Caktus team in our T-shirts during the event, or go ahead and schedule a meeting with us. 
+Whether you’ll be at PyCon or following along from home, we’ll tweet from @CaktusGroup. Be sure to follow us for the latest updates from the event.
+
+April 11, 2019 01:00 PM UTC
+
+
+
+Hello and welcome back to another easy solution posted on Codewars. In this chapter, we need to solve the below problem.
+Suzuki is a monk who climbs a large staircase to the monastery as part of a ritual. Some days he climbs more stairs than others depending on the number of students he must train in the morning. He is curious how many stairs might be climbed over the next 20 years and has spent a  year marking down his daily progress. 
+The sum of all the stairs logged in a year will then be used for estimating the number he might climb in 20. 
+20_year_estimate = one_year_total * 20
+You will receive the following data structure representing the stairs
+ Suzuki logged in a year. You will have all data for the entire year so 
+regardless of how it is logged the problem should be simple to solve.
+Make sure your solution takes into account all of the nesting within the stairs array.
+Each weekday in the stairs array is an array.
+Your function should return the 20 year estimate of the stairs climbed using the formula above. 
+You might feel confused at the beginning what does the author of this question actually wants but that is how all the questions on Codewars appear to be because they are from people around the world whose language is not English. While you try to figure it out what this question actually means, below is the entire solution written in python.
+Do enjoy and hope you like this post.
+
+April 11, 2019 09:18 AM UTC
+
+
+
+I have been on the several Python interviews again and have passed an Upwork Python test. And I have noticed that the interviewers like using task as the following one.
+Question: what is the output of those lines?
+The output of the first two lines is pretty obvious, but the result of the third line f(3) wasn’t so intuitive for me.
+So let’s investigate what is going on after the initialization of the f function. I use IPython to run this code.
+The empty list that we see from the f.__defaults__ result is basically the l variable in the function code.
+Nothing special.
+But! Now, we can see that variable l has a [0, 1] value because of the mutability of the Python list object and passing function arguments as a reference.
+Nothing special too. Just passing new list object as a l variable.
+And here comes the most interesting part. When you run f(3), Python doesn’t use the empty list that is defined in function code, it uses the l variable with the values from f.__defaults__ ([0, 1]).
+P.S.
+If you want to have a function that uses empty list after each call, you should use something like this (set `l` default value to `None`).
+One of the most popular test question from the Python interview was explained here. So it turns out that you can’t always trust your intuition, at least mine :)
+Python IO streams in examples
+Thanks for the attention to the topic, feel free to leave your questions in the comments for discussion.
+Python Functions Defaults Explained was originally published in python4you on Medium, where people are continuing the conversation by highlighting and responding to this story.
+
+April 11, 2019 06:55 AM UTC
+
+
+
+In this article, I will solve a common Tree data-structure question. This question also appears frequently in coding interviews. In solving this question, I will also teach you the thought process that I go through when I encounter problems like this one so you can solve similar problems on your own if you encounter them. [...]
+The post Flatten Binary Tree to Linked List (Python In-Depth Explanation) appeared first on Afternerd.
+
+April 11, 2019 03:30 AM UTC
+
+
+
+Wing Pro implements a suite of auto-editing operations that take care of common low-level
+editing tasks. In the previous installments of this 3-part Wing Tips series
+on Wing Pro's auto-editing features we looked at managing Python code blocks and auto-invocation.
+To finish up this series, let's take a look at PEP 8 compliant auto-spacing and a few
+less frequently needed but useful operations.
+Wing Pro can auto-enter spacing as you type, but this operation is off by default since it
+may take some getting used to. Once enabled with the Editor > Auto-Editing > Auto-Enter
+Spaces preference, you can type x=1 to get x = 1 or i=range(x=0,10) to enter
+i = range(x=0, 10).  Spacing is entered in a PEP 8 compliant way.
+Shown above: Type "t([1,2,3],y=f)" without any spaces; PEP 8 compliant spacing is auto-entered as needed.
+Some options for auto-spacing are available on the Editor > Auto-Editing preferences
+page, to control whether spaces are auto-entered after unambiguous keyword names are
+entered, whether to prevent insertion of spacing that is not PEP 8 compliant, and how to
+place spaces in type annotations.
+Wing recognizes some types of out-of-order typing and adjusts them automatically, as a way
+to save on keystrokes.  Some of the transformations include:
+Shown above: Type "def x(:)" to start the first def, "def y(a,b-)" for the second, and finally "c=a,x(,)b"
+When the caret is just after a string and a quote character is pressed, the quotes around
+the string are changed to that type of quote. This works with regular and triple-quoted
+strings, although it's most useful for regular strings when the string needs to be edited
+to contain a quote character.
+Shown above: Type 'x = "test"', move caret to right, and then press ' to change to single quotes so the string can contain a double quote
+That's it for our three-part Wing Tips series on auto-editing in Wing Pro.
+For details on all the available auto-editing operations, see Auto-Editing in the Wing Pro manual.
+Auto-editing is just one way in which Wing helps with writing, testing, and debugging
+Python code. Next week we'll move on to some of the others.
+
+April 11, 2019 01:00 AM UTC
+
+
+
+Want to meet key podcasters, authors, and teachers at PyCon? This year PyCharm has an expanded booth with space shared by many of the key “Python Content Creators.” Come say hi, watch short talks by them, us, and others in our mini-theater, or schedule one-on-one slots in our seating area.
+We have lots more to announce on this in the coming weeks, but let’s lead with a quick overview.
+We’re happy to be hosting our friends from PyCons past, giving these “Python Content Creators” booth space to talk with their folks:
+How will it work? We will have two stands, with their logos and information on the backstop. They’ll take 2 hours slots rotating through their “booth.” Look for announcements from them about the slots and other activities.
+Our booth has 4 equal parts: an area for PyCharm, an area for the Python Content Creators, a one-on-one place with chairs, and a mini-theater.
+The one-on-one place lets the PyCharm development team (yes, the actual people that make PyCharm) or the Python Content Creators pre-arrange or spontaneously do individual discussions. If you want to get your PyCharm configured for your project with a PyCharm developer, this is your chance. Of course you can also debug something, do a deep dive on a topic, solve some problem, get feedback, whatever. Let’s face it, sometimes it’s nice at conferences to sit down and chat.
+The mini-theater is the focus. We’ll have a schedule of talks by the PyCharm team, by the Python Content Creators, even by others…for example, Barry Warsaw and I will do a short version of the Python 1994 talk. We jokingly refer to this as the “PyCon Rejects Space.”
+Last year we participated in a Humble Bundle with several popular creators of Python training, courses, etc. We did an open space with the “Humble Bundlers” and were surprised by the response. People wanted to talk with us, collectively, as much as individually. And we wanted to talk with each other.
+After the session we joked: “PyCharm should get a big ol’ booth next year and host the Humble Bundlers.” And here we are…joke-driven development.
+We have much more to announce, so stay tuned to our blog, Twitter, and most importantly each of the Python Content Creators. This is going to be fun.
+
+April 10, 2019 06:39 PM UTC
+
+
+
+lxml is a Python library which allows for easy handling of XML and HTML files, and can also be used for web scraping. There are a lot of off-the-shelf XML parsers out there, but for better results, developers sometimes prefer to write their own XML and HTML parsers. This is when the lxml library comes to play. The key benefits of this library are that it's ease of use, extremely fast when parsing large documents, very well documented, and provides easy conversion of data to Python data types, resulting in easier file manipulation.
+In this tutorial, we will deep dive into Python's lxml library, starting with how to set it up for different operating systems, and then discussing its benefits and the wide range of functionalities it offers. 
+There are multiple ways to install lxml on your system. We'll explore some of them below. 
+Pip is a Python package manager which is used to download and install Python libraries to your local system with ease i.e. it downloads and installs all the dependencies for the package you're installing, as well.
+If you have pip installed on your system, simply run the following command in terminal or command prompt:
+If you're using MacOS or Linux, you can install lxml by running this command in your terminal:
+You probably won't get to this part, but if none of the above commands works for you for some reason, try using easy_install:
+Note: If you wish to install any particular version of lxml, you can simply state it when you run the command in the command prompt or terminal like this, lxml==3.x.y. 
+By now, you should have a copy of the lxml library installed on your local machine. Let's now get our hands dirty and see what cool things can be done using this library. 
+To be able to use the lxml library in your program, you first need to import it. You can do that by using the following command:
+This will import the etree module, the module of our interest, from the lxml library.
+Using the etree module, we can create XML/HTML elements and their subelements, which is a very useful thing if we're trying to write or manipulate an HTML or XML file. Let's try to create the basic structure of an HTML file using etree:
+In the code above, you need to know that the Element function requires at least one parameter, whereas the SubElement function requires at least two. This is because the Element function only 'requires' the name of the element to be created, whereas the SubElement function requires the name of both the root node and the child node to be created.
+It's also important to know that both these functions only have a lower bound to the number of arguments they can accept, but no upper bound because you can associate as many attributes with them as you want. To add an attribute to an element, simply add an additional parameter to the (Sub)Element function and specify your attribute in the form of attributeName='attribute value'.
+Let's try to run the code we wrote above to gain a better intuition regarding these functions:
+Output:
+There's another way to create and organize your elements in a hierarchical manner. Let's explore that as well:
+So in this case whenever we create a new element, we simply append it to the root/parent node. 
+Until now, we have only considered creating new elements, assigning attributes to them, etc. Let's now see an example where we already have an HTML or XML file, and we wish to parse it to extract certain information. Assuming that we have the HTML file that we created in the first example, let's try to get the tag name of one specific element, followed by printing the tag names of all the elements. 
+Output:
+Now to iterate through all the child elements in the root node and print their tags:
+Output:
+Let's now see how we associate attributes to existing elements, as well as how to retrieve the value of a particular attribute for a given element.
+Using the same root element as before, try out the following code:
+Output:
+Here we can see that the newAttribute="attributeValue" has indeed been added to the root element.
+Let's now try to get the values of the attributes we have set in the above code. Here we access a child element using array indexing on the root element, and then use the get() method to retrieve the attribute:
+Output:
+Now that we have seen basic functionalities of the etree module, let's try to do some more interesting things with our HTML and XML files. Almost always, these files have some text in between the tags. So, let's see how we can add text to our elements:
+Output:
+Next, there are two very important things that we should be able to check, as that is required in a lot of web scraping applications for exception handling. First thing we'd like to check is whether or not an element has children, and second is whether or not a node is an Element.
+Let's do that for the nodes we created above:
+The above code will output "True" since the root node does have child nodes. However, if we check the same thing for the root's child nodes, like in the code below, the output will be "False".
+Output:
+Now let's do the same thing to see if each of the nodes is an Element or not:
+Output:
+The iselement method is helpful for determining if you have a valid Element object, and thus if you can continue traversing it using the methods we've shown here.
+Just now, we showed how to go down the hierarchy, i.e. how to check if an element has children or not, and now in this section we will try to go up the hierarchy, i.e. how to check and get the parent of a child node.
+The first line should return nothing (aka None) as the root node itself doesn't have any parent. The other two should both point to the root element i.e. the HTML tag. Let's check the output to see if it is what we expect:
+Output:
+In this section we will learn how to traverse sideways in the hierarchy, which retrieves an element's siblings in the tree. 
+Traversing the tree sideways is quite similar to navigating it vertically. For the latter, we used the getparent and the length of the element, for the former, we'll use getnext and getprevious functions. Let's try them on nodes that we previously created to see how they work:
+Output:
+Here you can see that root[1].getnext() retrieved the "body" tag since it was the next element, and root[1].getprevious() retrieved the "head" tag.
+Similarly, if we had used the getprevious function on root, it would have returned None, and if we had used the getnext function on root[2], it would also have returned None.
+Moving on, if we have an XML or HTML file and we wish to parse the raw string in order to obtain or manipulate the required information, we can do so by following the example below:
+Output:
+As you can see, we successfully changed some text in the HTML document. The XML doctype declaration was also automatically added because of the xml_declaration parameter that we passed to the tostring function.
+The last thing we're going to discuss is quite handy when parsing XML and HTML files. We will be checking ways through which we can see if an Element has any particular type of children, and if it does what do they contain.
+This has many practical use-cases, such as finding all of the link elements on a particular web page.
+Output:
+In the above tutorial, we started with a basic introduction to what lxml library is and what it is used for. After that, we learned how to install it on different environments like Windows, Linux, etc. Moving on, we explored different functionalities that could help us in traversing through the HTML/XML tree vertically as well as sideways. In the end, we also discussed ways to find elements in our tree, and as well as obtain information from them.
+
+April 10, 2019 04:17 PM UTC
+
+
+
+Managing database migrations is a great challenge in any software project. Luckily, as of version 1.7, Django comes with a built-in migration framework. The framework is very powerful and useful in managing change in databases. But the flexibility provided by the framework required some compromises. To understand the limitations of Django migrations, you are going to tackle a well known problem: creating an index in Django with no downtime.
+In this tutorial, you’ll learn:
+This intermediate-level tutorial is designed for readers who are already familiar with Django migrations. For an introduction to that topic, check out Django Migrations: A Primer.
+Free Bonus: Click here to get free access to additional Django tutorials and resources you can use to deepen your Python web development skills.
+A common change that usually becomes necessary when the data stored by your application grows is adding an index. Indexes are used to speed up queries and make your app feel fast and responsive.
+In most databases, adding an index requires an exclusive lock on the table. An exclusive lock prevents data modification (DML) operations such as UPDATE, INSERT, and DELETE, while the index is created.
+Locks are obtained implicitly by the database when executing certain operations. For example, when a user logs into your app, Django will update the last_login field in the auth_user table. To perform the update, the database will first have to obtain a lock on the row. If the row is currently being locked by another connection, then you might get a database exception.
+Locking a table might pose a problem when it’s necessary to keep the system available during migrations. The bigger the table, the longer it can take to create the index. The longer it takes to create the index, the longer the system is unavailable or unresponsive to users.
+Some database vendors provide a way to create an index without locking the table. For example, to create an index in PostgreSQL without locking a table, you can use the CONCURRENTLY keyword:
+In Oracle, there is an ONLINE option to allow DML operations on the table while the index is created:
+When generating migrations, Django will not use these special keywords. Running the migration as is will make the database acquire an exclusive lock on the table and prevent DML operations while the index is created.
+Creating an index concurrently has some caveats. It’s important to understand the issues specific to your database backend in advance. For example, one caveat in PostgreSQL is that creating an index concurrently takes longer because it requires an additional table scan.
+In this tutorial, you’ll use Django migrations to create an index on a large table, without causing any downtime.
+Note: To follow this tutorial, it is recommended that you use a PostgreSQL backend, Django 2.x, and Python 3.
+It is possible to follow along with other database backends as well. In places where SQL features unique to PostgreSQL are used, change the SQL to match your database backend.
+You’re going to use a made up Sale model in an app called app. In a real life situation, models such as Sale are the main tables in the database, and they will usually be very big and store a lot of data:
+To create the table, generate the initial migration and apply it:
+After a while, the sales table becomes very big, and users start to complain about slowness. While monitoring the database, you noticed that a lot of queries use the sold_at column. To speed things up, you decide that you need an index on the column.
+To add an index on sold_at, you make the following change to the model:
+If you run this migration as it is, then Django will create the index on the table, and it will be locked until the index is completed. It can take a while to create an index on a very large table, and you want to avoid downtime.
+On a local development environment with a small dataset and very few connections, this migration might feel instantaneous. However, on large datasets with many concurrent connections, obtaining a lock and creating the index can take a while.
+In the next steps, you are going to modify migrations created by Django to create the index without causing any downtime.
+The first approach is to create the index manually. You are going to generate the migration, but you are not going to actually let Django apply it. Instead, you will run the SQL manually in the database and then make Django think the migration completed.
+First, generate the migration:
+Use the sqlmigrate command to view the SQL Django will use to execute this migration:
+You want to create the index without locking the table, so you need to modify the command. Add the CONCURRENTLY keyword and execute in the database:
+Notice that you executed the command without the BEGIN and COMMIT parts. Omitting these keywords will execute the commands without a database transaction. We will discuss database transactions later in the article.
+After you executed the command, if you try to apply migrations, then you will get the following error:
+Django complains that the index already exists, so it can’t proceed with the migration. You just created the index directly in the database, so now you need to make Django think that the migration was already applied.
+How to Fake a Migration
+Django provides a built-in way of marking migrations as executed, without actually executing them. To use this option, set the --fake flag when applying the migration:
+Django didn’t raise an error this time. In fact, Django didn’t really apply any migration. It just marked it as executed (or FAKED).
+Here are some issues to consider when faking migrations:
+The manual command must be equivalent to the SQL generated by Django: You need to make sure the command you execute is equivalent to the SQL generated by Django. Use sqlmigrate to produce the SQL command. If the commands do not match, then you might end up with inconsistencies between the database and the models state.
+Other unapplied migrations will also be faked: When you have multiple unapplied migrations, they will all be faked. Before you apply migrations, it’s important to make sure only the migrations you want to fake are unapplied. Otherwise, you might end up with inconsistencies. Another option is to specify the exact migration you want to fake.
+Direct access to the database is required: You need to run the SQL command in the database. This is not always an option. Also, executing commands directly in a production database is dangerous and should be avoided when possible.
+Automated deployment processes might need adjustments: If you automated the deployment process (using CI, CD, or other automation tools), then you might need to alter the process to fake migrations. This is not always desirable.
+Cleanup
+Before moving on to the next section, you need to bring the database back to its state right after the initial migration. To do that, migrate back to the initial migration:
+Django unapplied the changes made in the second migration, so now it’s safe to also delete the file:
+To make sure you did everything right, inspect the migrations:
+The initial migration was applied, and there are no unapplied migrations.
+In the previous section, you executed SQL directly in the database and faked the migration. This gets the job done, but there is a better solution.
+Django provides a way to execute raw SQL in migrations using RunSQL. Let’s try to use it instead of executing the command directly in the database.
+First, generate a new empty migration:
+Next, edit the migration file and add a RunSQL operation:
+When you run the migration, you will get the following output:
+This is looking good, but there is a problem. Let’s try to generate migrations again:
+Django generated the same migration again. Why did it do that?
+Cleanup
+Before we can answer that question, you need to clean up and undo the changes you made to the database. Start by deleting the last migration. It was not applied, so it’s safe to delete:
+Next, list the migrations for the app app:
+The third migration is gone, but the second is applied. You want to get back to the state right after the initial migration. Try to migrate back to the initial migration as you did in the previous section:
+Django is unable to reverse the migration.
+To reverse a migration, Django executes an opposite action for every operation. In this case, the reverse of adding an index is to drop it. As you’ve already seen, when a migration is reversible, you can unapply it. Just like you can use checkout in Git, you can reverse a migration if you execute migrate to an earlier migration.
+Many built-in migration operations already define a reverse action. For example, the reverse action for adding a field is to drop the corresponding column. The reverse action for creating a model is to drop the corresponding table.
+Some migration operations are not reversible. For example, there is no reverse action for removing a field or deleting a model, because once the migration was applied, the data is gone.
+In the previous section, you used the RunSQL operation. When you tried to reverse the migration, you encountered an error. According to the error, one of the operations in the migration cannot be reversed. Django is unable to reverse raw SQL by default. Because Django has no knowledge of what was executed by the operation, it cannot generate an opposite action automatically.
+How to Make a Migration Reversible
+For a migration to be reversible, all the operations in it must be reversible. It’s not possible to reverse part of a migration, so a single non-reversible operation will make the entire migration non-reversible.
+To make a RunSQL operation reversible, you must provide SQL to execute when the operation is reversed. The reverse SQL is provided in the reverse_sql argument.
+The opposite action to adding an index is to drop it. To make your migration reversible, provide the reverse_sql to drop the index:
+Now try to reverse the migration:
+The second migration was reversed, and the index was dropped by Django. Now it’s safe to delete the migration file:
+It’s always a good idea to provide reverse_sql. In situations where reversing a raw SQL operation does not require any action, you can mark the operation as reversible using the special sentinel migrations.RunSQL.noop:
+In your previous attempt to create the index manually using RunSQL, Django generated the same migration over and over again even though the index was created in the database. To understand why Django did that, you first need to understand how Django decides when to generate new migrations.
+In the process of generating and applying migrations, Django syncs between the state of the database and the state of the models. For example, when you add a field to a model, Django adds a column to the table. When you remove a field from the model, Django removes the column from the table.
+To sync between the models and the database, Django maintains a state that represents the models. To sync the database with the models, Django generates migration operations. Migration operations translate to a vendor specific SQL that can be executed in the database. When all migration operations are executed, the database and the models are expected to be consistent.
+To get the state of the database, Django aggregates the operations from all past migrations. When the aggregated state of the migrations is not consistent with the state of the models, Django generates a new migration.
+In the previous example, you created the index using raw SQL. Django did not know you created the index because you didn’t use a familiar migration operation.
+When Django aggregated all the migrations and compared them with the state of the models, it found that an index was missing. This is why, even after you created the index manually, Django still thought it was missing and generated a new migration for it.
+Since Django is unable to create the index the way you want it to, you want to provide your own SQL but still let Django know you created it.
+In other words, you need to execute something in the database and provide Django with the migration operation to sync its internal state. To do that, Django provides us with a special migration operation called SeparateDatabaseAndState. This operation is not well known and should be reserved for special cases such as this one.
+It’s much easier to edit migrations than write them from scratch, so start by generating a migration the usual way:
+This is the contents of the migration generated by Django, same as before:
+Django generated an AlterField operation on the field sold_at. The operation will create an index and update the state. We want to keep this operation but provide a different command to execute in the database.
+Once again, to get the command, use the SQL generated by Django:
+Add the CONCURRENTLY keyword in the appropriate place:
+Next, edit the migration file and use SeparateDatabaseAndState to provide your modified SQL command for execution:
+The migration operation SeparateDatabaseAndState accepts 2 lists of operations:
+You kept the original operation generated by Django in state_operations. When using SeparateDatabaseAndState, this is what you will usually want to do. Notice that the db_index=True argument is provided to the field. This migration operation will let Django know that there is an index on the field.
+You used the SQL generated by Django and added the CONCURRENTLY keyword. You used the special action RunSQL to execute raw SQL in the migration.
+If you try to run the migration, you will get the following output:
+In SQL, CREATE, DROP, ALTER, and TRUNCATE operations are referred to as Data Definition Language (DDL). In databases that support transactional DDL, such as PostgreSQL, Django executes migrations inside a database transaction by default. However, according to the error above, PostgreSQL cannot create an index concurrently inside a transaction block.
+To be able to create an index concurrently within a migration, you need to tell Django to not execute the migration in a database transaction. To do that, you mark the migration as non-atomic by setting atomic to False:
+After you marked the migration as non-atomic, you can run the migration:
+You just executed the migration without causing any downtime.
+Here are some issues to consider when you’re using SeparateDatabaseAndState:
+Database operations must be equivalent to state operations: Inconsistencies between the database and model state can cause a lot of trouble. A good starting point is to keep the operations generated by Django in state_operations and edit the output of sqlmigrate to use in database_operations.
+Non atomic migrations cannot rollback in case of error: If there is an error during the migration, then you won’t be able to rollback. You would have to either rollback the migration or complete it manually. It’s a good idea to keep the operations executed inside a non-atomic migration to a minimum. If you have additional operations in the migration, move them to a new migration.
+Migration might be vendor specific: The SQL generated by Django is specific to the database backend used in the project. It might work with other database backends, but that is not guaranteed. If you need to support multiple database backends, you need to make some adjustments to this approach.
+You started this tutorial with a large table and a problem. You wanted to make your app faster for your users, and you wanted to do that without causing them any downtime.
+By the end of the tutorial, you managed to generate and safely modify a Django migration to achieve this goal. You tackled different problems along the way and managed to overcome them using built-in tools provided by the migrations framework.
+In this tutorial, you learned the following:
+The separation between model and database state is an important concept. Once you understand it, and how to utilize it, you can overcome many limitations of the built-in migration operations. Some use cases that come to mind include adding an index that was already created in the database and providing vendor specific arguments to DDL commands.
+[ Improve Your Python With 🐍 Python Tricks 💌 – Get a short & sweet Python Trick delivered to your inbox every couple of days. >> Click here to learn more and see examples ]
+
+April 10, 2019 02:00 PM UTC
+
+  News from the Python Software Foundation
+This is the blog of PyCon US, with guest contributions from Python conferences everywhere!
+Visit our official web site.
+In the following examples, input and output are distinguished by the presence or
+absence of prompts (>>> and …): to repeat the example, you must type
+everything after the prompt, when the prompt appears; lines that do not begin
+with a prompt are output from the interpreter. Note that a secondary prompt on a
+line by itself in an example means you must type a blank line; this is used to
+end a multi-line command.
+Many of the examples in this manual, even those entered at the interactive
+prompt, include comments.  Comments in Python start with the hash character,
+#, and extend to the end of the physical line.  A comment may appear at the
+start of a line or following whitespace or code, but not within a string
+literal.  A hash character within a string literal is just a hash character.
+Since comments are to clarify code and are not interpreted by Python, they may
+be omitted when typing in examples.
+Some examples:
+Let’s try some simple Python commands.  Start the interpreter and wait for the
+primary prompt, >>>.  (It shouldn’t take long.)
+The interpreter acts as a simple calculator: you can type an expression at it
+and it will write the value.  Expression syntax is straightforward: the
+operators +, -, * and / work just like in most other languages
+(for example, Pascal or C); parentheses (()) can be used for grouping.
+For example:
+The integer numbers (e.g. 2, 4, 20) have type int,
+the ones with a fractional part (e.g. 5.0, 1.6) have type
+float.  We will see more about numeric types later in the tutorial.
+Division (/) always returns a float.  To do floor division and
+get an integer result (discarding any fractional result) you can use the //
+operator; to calculate the remainder you can use %:
+With Python, it is possible to use the ** operator to calculate powers [1]:
+The equal sign (=) is used to assign a value to a variable. Afterwards, no
+result is displayed before the next interactive prompt:
+If a variable is not “defined” (assigned a value), trying to use it will
+give you an error:
+There is full support for floating point; operators with mixed type operands
+convert the integer operand to floating point:
+In interactive mode, the last printed expression is assigned to the variable
+_.  This means that when you are using Python as a desk calculator, it is
+somewhat easier to continue calculations, for example:
+This variable should be treated as read-only by the user.  Don’t explicitly
+assign a value to it — you would create an independent local variable with the
+same name masking the built-in variable with its magic behavior.
+In addition to int and float, Python supports other types of
+numbers, such as Decimal and Fraction.
+Python also has built-in support for complex numbers,
+and uses the j or J suffix to indicate the imaginary part
+(e.g. 3+5j).
+Besides numbers, Python can also manipulate strings, which can be expressed
+in several ways.  They can be enclosed in single quotes ('...') or
+double quotes ("...") with the same result [2].  \ can be used
+to escape quotes:
+In the interactive interpreter, the output string is enclosed in quotes and
+special characters are escaped with backslashes.  While this might sometimes
+look different from the input (the enclosing quotes could change), the two
+strings are equivalent.  The string is enclosed in double quotes if
+the string contains a single quote and no double quotes, otherwise it is
+enclosed in single quotes.  The print() function produces a more
+readable output, by omitting the enclosing quotes and by printing escaped
+and special characters:
+If you don’t want characters prefaced by \ to be interpreted as
+special characters, you can use raw strings by adding an r before
+the first quote:
+String literals can span multiple lines.  One way is using triple-quotes:
+"""...""" or '''...'''.  End of lines are automatically
+included in the string, but it’s possible to prevent this by adding a \ at
+the end of the line.  The following example:
+produces the following output (note that the initial newline is not included):
+Strings can be concatenated (glued together) with the + operator, and
+repeated with *:
+Two or more string literals (i.e. the ones enclosed between quotes) next
+to each other are automatically concatenated.
+This feature is particularly useful when you want to break long strings:
+This only works with two literals though, not with variables or expressions:
+If you want to concatenate variables or a variable and a literal, use +:
+Strings can be indexed (subscripted), with the first character having index 0.
+There is no separate character type; a character is simply a string of size
+one:
+Indices may also be negative numbers, to start counting from the right:
+Note that since -0 is the same as 0, negative indices start from -1.
+In addition to indexing, slicing is also supported.  While indexing is used
+to obtain individual characters, slicing allows you to obtain substring:
+Note how the start is always included, and the end always excluded.  This
+makes sure that s[:i] + s[i:] is always equal to s:
+Slice indices have useful defaults; an omitted first index defaults to zero, an
+omitted second index defaults to the size of the string being sliced.
+One way to remember how slices work is to think of the indices as pointing
+between characters, with the left edge of the first character numbered 0.
+Then the right edge of the last character of a string of n characters has
+index n, for example:
+The first row of numbers gives the position of the indices 0…6 in the string;
+the second row gives the corresponding negative indices. The slice from i to
+j consists of all characters between the edges labeled i and j,
+respectively.
+For non-negative indices, the length of a slice is the difference of the
+indices, if both are within bounds.  For example, the length of word[1:3] is
+2.
+Attempting to use an index that is too large will result in an error:
+However, out of range slice indexes are handled gracefully when used for
+slicing:
+Python strings cannot be changed — they are immutable.
+Therefore, assigning to an indexed position in the string results in an error:
+If you need a different string, you should create a new one:
+The built-in function len() returns the length of a string:
+See also
+Python knows a number of compound data types, used to group together other
+values.  The most versatile is the list, which can be written as a list of
+comma-separated values (items) between square brackets.  Lists might contain
+items of different types, but usually the items all have the same type.
+Like strings (and all other built-in sequence type), lists can be
+indexed and sliced:
+All slice operations return a new list containing the requested elements.  This
+means that the following slice returns a new (shallow) copy of the list:
+Lists also support operations like concatenation:
+Unlike strings, which are immutable, lists are a mutable
+type, i.e. it is possible to change their content:
+You can also add new items at the end of the list, by using
+the append() method (we will see more about methods later):
+Assignment to slices is also possible, and this can even change the size of the
+list or clear it entirely:
+The built-in function len() also applies to lists:
+It is possible to nest lists (create lists containing other lists), for
+example:
+Of course, we can use Python for more complicated tasks than adding two and two
+together.  For instance, we can write an initial sub-sequence of the
+Fibonacci series
+as follows:
+This example introduces several new features.
+The first line contains a multiple assignment: the variables a and b
+simultaneously get the new values 0 and 1.  On the last line this is used again,
+demonstrating that the expressions on the right-hand side are all evaluated
+first before any of the assignments take place.  The right-hand side expressions
+are evaluated  from the left to the right.
+The while loop executes as long as the condition (here: a < 10)
+remains true.  In Python, like in C, any non-zero integer value is true; zero is
+false.  The condition may also be a string or list value, in fact any sequence;
+anything with a non-zero length is true, empty sequences are false.  The test
+used in the example is a simple comparison.  The standard comparison operators
+are written the same as in C: < (less than), > (greater than), ==
+(equal to), <= (less than or equal to), >= (greater than or equal to)
+and != (not equal to).
+The body of the loop is indented: indentation is Python’s way of grouping
+statements.  At the interactive prompt, you have to type a tab or space(s) for
+each indented line.  In practice you will prepare more complicated input
+for Python with a text editor; all decent text editors have an auto-indent
+facility.  When a compound statement is entered interactively, it must be
+followed by a blank line to indicate completion (since the parser cannot
+guess when you have typed the last line).  Note that each line within a basic
+block must be indented by the same amount.
+The print() function writes the value of the argument(s) it is given.
+It differs from just writing the expression you want to write (as we did
+earlier in the calculator examples) in the way it handles multiple arguments,
+floating point quantities, and strings.  Strings are printed without quotes,
+and a space is inserted between items, so you can format things nicely, like
+this:
+The keyword argument end can be used to avoid the newline after the output,
+or end the output with a different string:
+Footnotes
+2. Using the Python Interpreter
+4. More Control Flow Tools
+Python core development news and information.
+  News from the Python Software Foundation
+  News from the Python Software Foundation
+Python core development news and information.
+Python core development news and information.
+The web framework for perfectionists with deadlines.
+
+Django makes it easier to build better Web apps more quickly and with less code.
+
+
+Get started with Django
+
+
+          Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
+          Built by experienced developers, it takes care of much of the hassle of Web development, so you can focus
+          on writing your app without needing to reinvent the wheel. It’s free and open source.
+        
+Django was designed to help developers take applications from concept to completion as quickly as possible.
+Django takes security seriously and helps developers avoid many common security mistakes.
+Some of the busiest sites on the Web leverage Django’s ability to quickly and flexibly scale.
+Subscribe to one of our mailing lists to stay up to date with everything in the Django community:
+Get help with Django and follow announcements.
+
+      You can also subscribe by sending an email to
+      
+      django-users+subscribe@googlegroups.com and following the
+      instructions that will be sent to you.
+    
+Contribute to the development of Django itself.
+
+      Before asking a question about how to contribute, read
+      
+      Contributing to Django. Many frequently asked questions are answered there.
+    
+
+      You can also subscribe by sending an email to
+      
+      django-developers+subscribe@googlegroups.com and following the
+      instructions that will be sent to you.
+    
+
+    We have a few other specialized lists (mentorship, i18n, ...). You can
+    find more information about them in our
+    
+    mailing list documentation.
+  
+Django 2.2 has been released!
+Today the Django project issued a bugfix release for the 2.1 release series.
+© 2005-2019
+         Django Software
+        Foundation and individual contributors. Django is a
+        registered
+        trademark of the Django Software Foundation.
+      
+Filesystem interaction using transactions with ACID semantics.
+
+package •
+                  source •
+                  docs
+
+An HTML form library.
+
+package •
+                  source •
+                  docs
+
+The Start Small, Finish Big, Stay Finished Web Framework.
+
+package •
+                  source •
+                  docs •
+                  website
+
+An application server based on Pyramid.
+
+package •
+                  source •
+                  docs •
+                  website
+
+An internationalization library.
+
+package •
+                  source •
+                  docs
+
+WSGI server for Python 2/3 that runs on UNIX and Windows.
+
+package •
+                  source •
+                  docs
+
+WSGI request/response library.
+
+package •
+                  source •
+                  docs •
+                  website
+
+Test a WSGI application without starting up an HTTP server.
+
+package •
+                  source •
+                  docs
+
+
+            Visit trypyramid.com to learn more about the Pyramid web framework, our most featured project.
+          
+
+            The Pylons Project is composed of a disparate group of project leaders with experience going back to the very start of Python web frameworks.
+          
+
+Collectively, we have experience and humility gained by making (and surviving) every stupid decision that could be imagined. We aim to bring fresh ideas to classic web development problems.
+          
+
+            Rather than focusing on a single web framework, the Pylons Project develops a collection of related technologies. The first package from the Pylons Project was the Pyramid web framework.
+          
+
+            Other packages have been added to the collection over time, including higher-level components and applications. The project has become an ecosystem of well-tested, well-documented components which interoperate easily.
+          
+
+Follow @PylonsProject
+
+
+
+        © Copyright 2008-2018, Agendaless Consulting
+
+Pylons Project | Build 2c66a07ad62e665995f4
+      
+
+
+          Sponsored by Linode
+
+
+Bottle is a fast, simple and lightweight WSGI micro web-framework for Python. It is distributed as a single file module and has no dependencies other than the Python Standard Library.
+Example: “Hello World” in a bottle
+Run this script or paste it into a Python console, then point your browser to http://localhost:8080/hello/world. That’s it.
+Download and Install
+Install the latest stable release with pip install bottle or download bottle.py (unstable) into your project directory. There are no hard [1] dependencies other than the Python standard library. Bottle supports Python 2.7 and Python 3.
+Deprecated since version 0.13: Support for Python 2.5 and 2.6 was dropped with this release.
+Start here if you want to learn how to use the bottle framework for web development. If you have any questions not answered here, feel free to ask the mailing list.
+A collection of articles, guides and HOWTOs.
+These chapters are intended for developers interested in the bottle development and release workflow.
+Code and documentation are available according to the MIT License:
+The Bottle logo however is NOT covered by that license. It is allowed to
+use the logo as a link to the bottle homepage or in direct context with
+the unmodified library. In all other cases please ask first.
+Footnotes
+
+
+
+
+   Bottle is a fast, simple and lightweight WSGI micro web-framework for Python.
+
+Install Bottle with pip install bottle or download the source package at PyPI.
+Warning: This is a preview for Bottle-0.13-dev, which is
+    not released yet. Switch to the latest stable release?
+Download this documentation as PDF or HTML (zip) for offline use.
